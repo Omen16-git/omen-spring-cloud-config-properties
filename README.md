@@ -1,0 +1,1 @@
+# omen-spring-cloud-config-properties
